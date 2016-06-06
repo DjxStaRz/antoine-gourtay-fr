@@ -33,7 +33,7 @@ span{
 .photo-cv img{
   width: 10%;
   border-radius: 100%;
-  width: 255px;
+  width: 235px;
   height: 270px;
   transition: all .35s ease-in-out;
   box-shadow: 1px 1px 20px #555;
@@ -53,9 +53,8 @@ span{
 /** Footer **/
 footer{
   width: 100%;
-  position: fixed;
+  position: relative;;
   text-align: center;
-  bottom: 0;
 }
 a:hover {
   text-decoration: none;
